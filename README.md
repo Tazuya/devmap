@@ -207,27 +207,27 @@
 ### Протокол HTTP [&uarr;](#Содержание)
 **Цель** - понять, как браузер взаимодействует с веб-сервером.
 
-- [ ] Усвоить понятия:
-    - [ ] User-agent
-    - [ ] DNS
-    - [ ] Отличия HTTP 2.0 от версий 1.x
-    - [ ] Тело HTTP-запроса
-    - [ ] Передача данных
-    - [ ] Отправка форм
-    - [ ] Transfer-Encoding
-    - [ ] Перенаправления
-    - [ ] Базовая аутентификация
-    - [ ] Cookies
+- [x] Усвоить понятия:
+    - [x] User-agent
+    - [x] DNS
+    - [x] Отличия HTTP 2.0 от версий 1.x
+    - [x] Тело HTTP-запроса
+    - [x] Передача данных
+    - [x] Отправка форм
+    - [x] Transfer-Encoding
+    - [x] Перенаправления
+    - [x] Базовая аутентификация
+    - [x] Cookies
 
-- [ ] Статьи:
-    - [ ] [Простым языком об HTTP (habrahabr)](https://habrahabr.ru/post/215117/)
-    - [ ] [HTTP: протокол, который каждый разработчик должен знать (часть 1)](http://ruseller.com/lessons.php?rub=28&id=1726)
-    - [ ] [HTTP: протокол, который каждый разработчик должен знать (часть 2)](http://ruseller.com/lessons.php?rub=28&id=1777)
-    - [ ] [HTTP запрос](http://citforum.ru/internet/cgi_tut/rqst.shtml)
-    - [ ] [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml)
+- [x] Статьи:
+    - [x] [Простым языком об HTTP (habrahabr)](https://habrahabr.ru/post/215117/)
+    - [x] [HTTP: протокол, который каждый разработчик должен знать (часть 1)](http://ruseller.com/lessons.php?rub=28&id=1726)
+    - [x] [HTTP: протокол, который каждый разработчик должен знать (часть 2)](http://ruseller.com/lessons.php?rub=28&id=1777)
+    - [x] [HTTP запрос](http://citforum.ru/internet/cgi_tut/rqst.shtml)
+    - [x] [HTTP ответ](http://citforum.ru/internet/cgi_tut/spns.shtml)
 
-- [ ] Курс:
-    - [ ] [Протокол HTTP (Hexlet)](https://ru.hexlet.io/courses/http_protocol?ref=62000)
+- [x] Курс:
+    - [x] [Протокол HTTP (Hexlet)](https://ru.hexlet.io/courses/http_protocol?ref=62000)
 
 ---
 
