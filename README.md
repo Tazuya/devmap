@@ -7,7 +7,7 @@
     - [ ] [Архитектура компьютера](#Архитектура-компьютера-)
     - [ ] [Linux, командная строка Bash](#linux-командная-строка-bash-)
     - [ ] [Структуры данных](#Структуры-данных-)
-    - [ ] [HTML & CSS](#html--css-)
+    - [x] [HTML & CSS](#html--css-)
     - [ ] [Объектно-ориентированное программирование](#Объектно-ориентированное-программирование-)
     - [ ] [Функциональное программирование](#Функциональное-программирование-)
     - [ ] [Системы управления версиями](#Системы-управления-версиями-)
@@ -138,20 +138,20 @@
 ---
 
 ### HTML & CSS [&uarr;](#Содержание)
-- [ ] Усвоить понятия:
-    - [ ] Верстка
-    - [ ] HTML 5
-    - [ ] Разметка
-    - [ ] Семантика
-    - [ ] Cтили
-    - [ ] Cелекторы
-    - [ ] Анимация
+- [x] Усвоить понятия:
+    - [x] Верстка
+    - [x] HTML 5
+    - [x] Разметка
+    - [x] Семантика
+    - [x] Cтили
+    - [x] Cелекторы
+    - [x] Анимация
 
-- [ ] Документации, курсы:
-    - [ ] [htmlbook](http://htmlbook.ru/)
-    - [ ] [MDN](https://developer.mozilla.org/en-US/)
-    - [ ] [HTML academy](https://htmlacademy.ru/)
-    - [ ] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
+- [x] Документации, курсы:
+    - [x] [htmlbook](http://htmlbook.ru/)
+    - [x] [MDN](https://developer.mozilla.org/en-US/)
+    - [x] [HTML academy](https://htmlacademy.ru/)
+    - [x] [Введение в schema.org (yandex)](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml)
 
 ---
 
