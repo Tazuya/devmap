@@ -299,12 +299,12 @@
     - [ ] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
 
 - [ ] Книги:
-    - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
+    - [x] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
 
-- [ ] Ресурсы:
+- [x] Ресурсы:
     - [ ] [HackerRank](https://www.hackerrank.com/)
-    - [ ] [Codewars](https://www.codewars.com/)
+    - [x] [Codewars](https://www.codewars.com/)
     - [ ] [LeetCode](https://leetcode.com/)
 
 ---
