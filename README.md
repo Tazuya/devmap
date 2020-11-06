@@ -286,26 +286,26 @@
 ## Карта развития Back-end разработчика [&uarr;](#Содержание)
 
 ### Алгоритмы [&uarr;](#Содержание)
-- [ ] Познакомиться с алгоритмами:
-    - [ ] Сортировки
-    - [ ] Поиска в строке
-    - [ ] Обхода и поиска в структурах данных
-    - [ ] На графах
+- [x] Познакомиться с алгоритмами:
+    - [x] Сортировки
+    - [x] Поиска в строке
+    - [x] Обхода и поиска в структурах данных
+    - [x] На графах
 
-- [ ] Статьи:
-    - [ ] [Пузырьковая сортировка и все-все-все (habrahabr)](https://habrahabr.ru/post/204600/)
-    - [ ] [Алгоритмы поиска в строке (habrahabr)](https://habrahabr.ru/post/111449/)
-    - [ ] [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
-    - [ ] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
+- [x] Статьи:
+    - [x] [Пузырьковая сортировка и все-все-все (habrahabr)](https://habrahabr.ru/post/204600/)
+    - [x] [Алгоритмы поиска в строке (habrahabr)](https://habrahabr.ru/post/111449/)
+    - [x] [Алгоритмы и структуры данных поиска. Лекции и курсы от Яндекса (habrahabr)](https://habrahabr.ru/company/yandex/blog/208716/)
+    - [x] [Алгоритм Дейкстры. Поиск оптимальных маршрутов на графе (habrahabr)](https://habrahabr.ru/post/111361/)
 
 - [ ] Книги:
     - [x] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
 
 - [x] Ресурсы:
-    - [ ] [HackerRank](https://www.hackerrank.com/)
+    - [x] [HackerRank](https://www.hackerrank.com/)
     - [x] [Codewars](https://www.codewars.com/)
-    - [ ] [LeetCode](https://leetcode.com/)
+    - [x] [LeetCode](https://leetcode.com/)
 
 ---
 
