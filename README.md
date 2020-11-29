@@ -30,7 +30,7 @@
     - [ ] [Развертывание проектов](#Развертывание-проектов-)
 
 - [**Карта развития Front-end разработчика:**](#Карта-развития-front-end-разработчика-)
-    - [ ] [JavaScript](#javascript-)
+    - [x] [JavaScript](#javascript-)
     - [ ] [Адаптивный/отзывчивый веб-дизайн](#Адаптивныйотзывчивый-веб-дизайн-)
     - [ ] [JavaScript библиотеки](#javascript-библиотеки-)
     - [ ] [Препроцессоры CSS](#Препроцессоры-css-)
@@ -489,30 +489,30 @@
 ## Карта развития Front-end разработчика [&uarr;](#Содержание)
 
 ### JavaScript [&uarr;](#Содержание)
-- [ ] Познакомиться с такими понятиями как:
-    - [ ] Переменные
-    - [ ] Типы данных
-    - [ ] Функции
-    - [ ] Рекурсия
-    - [ ] Замыкания
-    - [ ] Область видимости
-    - [ ] Объекты
-    - [ ] События
-    - [ ] DOM
+- [x] Познакомиться с такими понятиями как:
+    - [x] Переменные
+    - [x] Типы данных
+    - [x] Функции
+    - [x] Рекурсия
+    - [x] Замыкания
+    - [x] Область видимости
+    - [x] Объекты
+    - [x] События
+    - [x] DOM
 
-- [ ] Документации, книги:
+- [x] Документации, книги:
     - [ ] [Eloquent JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-    - [ ] [learn.javascript](https://learn.javascript.ru/)
-    - [ ] [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+    - [x] [learn.javascript](https://learn.javascript.ru/)
+    - [x] [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript)
     - [ ] [ECMAScript 6 features](https://github.com/lukehoban/es6features)
 
 ---
 
 ### Адаптивный/отзывчивый веб-дизайн [&uarr;](#Содержание)
 - [ ] Усвоить понятия:
-    - [ ] Адаптивный веб-дизайн
-    - [ ] Отзывчивый веб-дизайн
-    - [ ] Media queries
+    - [x] Адаптивный веб-дизайн
+    - [x] Отзывчивый веб-дизайн
+    - [x] Media queries
     - [ ] Mobile first
     - [ ] Graceful degradation
     - [ ] RESS
@@ -527,7 +527,7 @@
 **Цель** - познакомиться с наиболее популярными библиотеками JavaScript. Знать где и когда их применять.
 
 Список библиотек:
-- [ ] [jQuery](https://jquery.com/)
+- [x] [jQuery](https://jquery.com/)
 - [ ] [ReactJS](https://reactjs.org/)
 - [ ] [Underscore - набор полезных функций](http://underscorejs.org/)
 - [ ] [Modernizr - обнаруживает HTML5 и CSS3 функции в браузере пользователя](https://modernizr.com/)
@@ -577,7 +577,7 @@
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеров:
     - [ ] [Bower](https://bower.io/)
-    - [ ] [npm](https://www.npmjs.com/)
+    - [x] [npm](https://www.npmjs.com/)
     - [ ] [Yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
@@ -588,7 +588,7 @@
 
 ### CSS фреймворки [&uarr;](#Содержание)
 - [ ] Список фреймворков:
-    - [ ] [Bootstrap](http://getbootstrap.com/)
+    - [x] [Bootstrap](http://getbootstrap.com/)
     - [ ] [Skeleton](http://getskeleton.com/)
     - [ ] [Foundation](http://foundation.zurb.com/)
 
@@ -615,7 +615,7 @@
     - [ ] [JavaScript фреймворки](#javascript-фреймворки-)
     - [ ] Роутинг
     - [ ] Шаблонизатор
-    - [ ] API, например REST
+    - [x] API, например REST
     - [ ] AJAX
 
 - [ ] Статьи:
