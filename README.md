@@ -380,14 +380,14 @@
     - [x] DDL, DML, DQL
     - [x] Создание и удаление базы данных, таблицы
     - [x] Добавление, обновление и удаление записи
-    - [ ] Схема (SCHEMA)
-    - [ ] Представления (VIEWS)
-    - [ ] WHERE
-    - [ ] LIMIT, OFFSET
-    - [ ] ORDER BY
-    - [ ] GROUP BY
-    - [ ] JOIN
-    - [ ] Подзапросы
+    - [x] Схема (SCHEMA)
+    - [x] Представления (VIEWS)
+    - [x] WHERE
+    - [x] LIMIT, OFFSET
+    - [x] ORDER BY
+    - [x] GROUP BY
+    - [x] JOIN
+    - [x] Подзапросы
 
 - [ ] Статьи:
     - [ ] [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL)
