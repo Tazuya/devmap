@@ -22,7 +22,7 @@
     - [x] [Паттерны программирования](#Паттерны-программирования-)
     - [x] [Принципы программирования](#Принципы-программирования-)
     - [x] [Регулярные выражения](#Регулярные-выражения-)
-    - [ ] [SQL](#sql-)
+    - [x] [SQL](#sql-)
     - [x] [Проектирование баз данных](#Проектирование-баз-данных-)
     - [ ] [Фреймворки](#Фреймворки-)
     - [ ] [Пакетный менеджер](#Пакетный-менеджер-)
@@ -389,16 +389,16 @@
     - [x] JOIN
     - [x] Подзапросы
 
-- [ ] Статьи:
-    - [ ] [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL)
-    - [ ] [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-    - [ ] [Представления в MySQL (habrahabr)](https://habrahabr.ru/post/47031/)
-    - [ ] [Квалифицированный выбор при использовании предложений](http://www.sql.ru/docs/sql/u_sql/ch3.shtml#3.9)
-    - [ ] [Полнотекстовый поиск и его возможности (habrahabr)](https://habrahabr.ru/post/40218/)
+- [x] Статьи:
+    - [x] [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL)
+    - [x] [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+    - [x] [Представления в MySQL (habrahabr)](https://habrahabr.ru/post/47031/)
+    - [x] [Квалифицированный выбор при использовании предложений](http://www.sql.ru/docs/sql/u_sql/ch3.shtml#3.9)
+    - [x] [Полнотекстовый поиск и его возможности (habrahabr)](https://habrahabr.ru/post/40218/)
 
-- [ ] Курсы:
-    - [ ] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl?ref=62000)
-    - [ ] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql?ref=62000)
+- [x] Курсы:
+    - [x] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl?ref=62000)
+    - [x] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql?ref=62000)
 
 ---
 
